@@ -1,8 +1,8 @@
 # ActsAsBookable
 
-# FelipeRiveraC Fork Update
+# Bongs Fork Update
 
-* This fork adds support for ActiveRecord 6+
+* This fork adds support for ActiveRecord 6.1.7
 
 
 [![Gem Version](https://badge.fury.io/rb/acts_as_bookable.svg)](http://badge.fury.io/rb/acts_as_bookable)
