@@ -2,7 +2,7 @@ module ActsAsBookable
   ##
   # Booking model. Store in database bookings made by bookers on bookables
   #
-  class Booking < ::ActiveRecord::Base
+  class Booking < ::ApplicationRecord
     self.table_name = 'acts_as_bookable_bookings'
 
     belongs_to :bookable, polymorphic: true
